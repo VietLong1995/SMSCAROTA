@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SMS CAROTA</string>
+    <string name="txt_brandName">Carota</string>
+    <string name="txt_username">User Name</string>
+    <string name="txt_password">PassWord</string>
+    <string name="txt_login">Đăng Nhập</string>
+    <string name="txt_dang_nhap">Đăng nhập</string>
+    <string name="txt_user_name">User Name</string>
+    <string name="txt_tai_khoan">TÀI KHOẢN</string>
+    <string name="txt_mat_khau">Mật Khẩu</string>
+    <string name="txt_danh_sach_sms">Danh sách SMS</string>
+    <string name="txt_ten_dai_dien">Tên của người đại diện</string>
+    <string name="txt_ten_to_chuc">Tên tổ chức</string>
+    <string name="txt_danh_sach_trang_thai">Danh sách trạng thái SMS</string>
+    <string name="txt_chon">Chọn</string>
+    <string name="txt_tong_so_sms">Tổng số SMS: 523</string>
+</resources>
